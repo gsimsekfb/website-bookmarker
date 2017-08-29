@@ -1,4 +1,4 @@
-# website-bookmarker
+# Web Site Bookmarker
 
 Educational, simple project for bookmarking web sites.
 
