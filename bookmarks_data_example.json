@@ -1,0 +1,12 @@
+{
+    "bookmarks": [
+        {
+            "name": "google",
+            "url": "www.google.com"
+        },
+        {
+            "name": "yahoo",
+            "url": "www.yahoo.com"
+        }
+    ]
+}
