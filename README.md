@@ -7,7 +7,7 @@ Educational, simple project for bookmarking web sites.
 - Bootstrap
 
 #### Screenshot of app:  
-<h1 align=center>
+<h1>
   <img src="screenshot.jpg" width="700">  
 </h1>
 
